@@ -1,0 +1,29 @@
+ @import url(https://fonts.googleapis.com/css2?family=Modern+Antiqua&display=swap);
+
+body {
+  font-family: 'Modern Antiqua' sans-serif;
+  height: 100%;
+  background-image: cover;
+  background-repeat: no-repeat;
+  background-position:  center;
+  margin: 0;
+  padding: 0;
+}
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+
+}
+#soat {   
+    border: 1px solid wheat;
+    display: flex;
+    font-size: 45px;
+    color: wheat;
+    font-family: 'Modern Antiqua';
+    margin-top: 25%;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px  10px 10px 20px;
+}
